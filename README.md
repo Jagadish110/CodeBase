@@ -16,9 +16,7 @@ A powerful **AI-powered code assistant** built with **Streamlit + LangChain + Go
 
 …and get **accurate, code-first, expert-level answers** with full function definitions automatically included.
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_Demo-ff4b4b?style=for-the-badge&logo=streamlit)](https://your-streamlit-app-link.streamlit.app)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python)](https://python.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 
 ## Features
 
